@@ -1,0 +1,64 @@
+{
+  "source": "/Users/huyvu/Desktop/Swift test tutorial/test/test/Question.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Danh sách tên:",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Họ và tên: Nguyễn Văn A",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email: nguyenvana@email.com",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Số điện thoại: 0123456789",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Doubled Numbers: %@",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sorted Names: %@",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sorted People Names: %@",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 60
+        }
+      }
+    ]
+  },
+  "version": 1
+}

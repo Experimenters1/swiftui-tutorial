@@ -1,0 +1,24 @@
+{
+  "source": "/Users/huyvu/Desktop/Swift test tutorial/test/test/Question 3 .swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Turtle Rock",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Joshua Tree National Park",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 16
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/huyvu/Desktop/Swift test tutorial/test/test/LandmarkDetail.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "About %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 38
+        }
+      }
+    ]
+  },
+  "version": 1
+}

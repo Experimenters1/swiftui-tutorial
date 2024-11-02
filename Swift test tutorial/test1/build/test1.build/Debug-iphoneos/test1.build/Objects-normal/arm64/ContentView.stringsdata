@@ -1,0 +1,20 @@
+{
+  "source": "/Users/huyvu/Desktop/Swift test tutorial/test1/test1/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Danh Sách"
+      },
+      {
+        "comment": "",
+        "key": "Đi đến Chi tiết"
+      },
+      {
+        "comment": "",
+        "key": "Đi đến Thông tin"
+      }
+    ]
+  },
+  "version": 1
+}

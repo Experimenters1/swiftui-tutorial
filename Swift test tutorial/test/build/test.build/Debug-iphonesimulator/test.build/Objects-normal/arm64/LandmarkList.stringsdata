@@ -1,0 +1,24 @@
+{
+  "source": "/Users/huyvu/Desktop/Swift test tutorial/test/test/LandmarkList.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Landmarks",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select a Landmark",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 22
+        }
+      }
+    ]
+  },
+  "version": 1
+}
