@@ -28,4 +28,47 @@ NavigationSplitView {
 
 ![image](https://github.com/user-attachments/assets/5e9bad97-c6dc-4032-8623-6cf014ce8a8a) <br><br>
 
+**1. HStack** <br>
++ )**Đặc điểm:** Sắp xếp các thành phần con theo chiều ngang.<br><br>
++ )**Thuộc tính:** <br><br>
+   - ) alignment: Điều chỉnh cách căn chỉnh các thành phần con theo chiều dọc (chẳng hạn như .top, .center, .bottom).
+   - ) spacing: Khoảng cách giữa các thành phần con.
 
+**2. VStack** <br>
++ )**Đặc điểm:** Sắp xếp các thành phần con theo chiều dọc.<br><br>
++ )**Thuộc tính:** <br><br>
+   - ) alignment: Điều chỉnh căn chỉnh các thành phần con theo chiều ngang (chẳng hạn như .leading, .center, .trailing).
+   - ) spacing: Khoảng cách giữa các thành phần con.
+
+**3. ZStack** <br>
++ )**Đặc điểm:** Chồng các thành phần con lên nhau.<br><br>
++ )**Thuộc tính:** <br><br>
+   - ) alignment: alignment: Căn chỉnh các thành phần con trong không gian chồng chéo (chẳng hạn như .top, .bottom, .leading, .trailing, .center).
+
+**4.  List** <br>
++ )**Đặc điểm:** Hiển thị danh sách các mục, tự động quản lý sự cuộn và hiển thị các hàng.
++ )**Thuộc tính:** <br><br>
+   - ) rowContent: Nội dung của mỗi hàng trong danh sách.
+   - ) id: Sử dụng để xác định duy nhất mỗi hàng nếu cần.
+
+**5.   Group** <br>
++ )**Đặc điểm:** Nhóm các thành phần con lại với nhau mà không ảnh hưởng đến bố cục.
++ )**Thuộc tính:** <br><br>
+  Không có thuộc tính cụ thể nào, nhưng hữu ích để kết hợp nhiều thành phần mà không làm thay đổi giao diện tổng thể (ví dụ: trong điều kiện).<br><br>
+
+**6.Make Conditional** <br>
++ )**Đặc điểm:** Sử dụng điều kiện để quyết định hiển thị các thành phần.
++ )**Thuộc tính:** <br><br>
+  Thường sử dụng câu lệnh if để điều kiện hóa việc hiển thị các thành phần trong SwiftUI.<br><br>
+```swift
+if condition {
+    Text("Condition is true")
+} else {
+    Text("Condition is false")
+}
+
+```
+**7.Embed** <br>
++ )**Đặc điểm:** Nhúng một thành phần trong thành phần khác để tổ chức bố cục.
++ )**Cách sử dụng:** <br><br>
+  Có thể nhúng HStack, VStack, hoặc ZStack bên trong các thành phần khác để tạo ra giao diện phức tạp hơn.<br><br>
