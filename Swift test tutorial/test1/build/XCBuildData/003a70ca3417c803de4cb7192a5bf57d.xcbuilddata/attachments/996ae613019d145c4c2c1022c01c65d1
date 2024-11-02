@@ -1,0 +1,148 @@
+{
+  "" : {
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/test1-master.dia",
+    "emit-module-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/test1-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/test1-master-emit-module.dia",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/test1-master.swiftdeps"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/ContentView.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/DetailView.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/DetailView_NavigationStack.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView_NavigationStack.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView_NavigationStack.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView_NavigationStack.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView_NavigationStack.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView_NavigationStack.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView_NavigationStack.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView_NavigationStack.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/DetailView_NavigationStack~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/InfoView.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/InfoView.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/InfoView.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/InfoView.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/InfoView.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/InfoView.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/InfoView.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/InfoView.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/InfoView~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/SwiftUIView.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/SwiftUIView_Conditional.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Conditional.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Conditional.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Conditional.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Conditional.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Conditional.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Conditional.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Conditional.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Conditional~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/SwiftUIView_Group.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Group.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Group.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Group.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Group.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Group.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Group.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Group.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_Group~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/SwiftUIView_HStack.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_HStack.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_HStack.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_HStack.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_HStack.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_HStack.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_HStack.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_HStack.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_HStack~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/SwiftUIView_List.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_List.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_List.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_List.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_List.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_List.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_List.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_List.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_List~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/SwiftUIView_NavigationStack.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_NavigationStack.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_NavigationStack.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_NavigationStack.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_NavigationStack.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_NavigationStack.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_NavigationStack.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_NavigationStack.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_NavigationStack~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/SwiftUIView_VStack.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_VStack.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_VStack.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_VStack.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_VStack.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_VStack.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_VStack.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_VStack.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_VStack~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/SwiftUIView_ZStack.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_ZStack.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_ZStack.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_ZStack.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_ZStack.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_ZStack.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_ZStack.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_ZStack.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/SwiftUIView_ZStack~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/test1App.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/test1App.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/test1App.d",
+    "diagnostics" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/test1App.dia",
+    "index-unit-output-path" : "/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/test1App.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/test1App.bc",
+    "object" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/test1App.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/test1App.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/build/test1.build/Debug-iphoneos/test1.build/Objects-normal/arm64/test1App~partial.swiftmodule"
+  }
+}

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E4186D42CD617FC00C66A1F /* SwiftUIView_NavigationLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4186D32CD617FC00C66A1F /* SwiftUIView_NavigationLink.swift */; };
 		2E51169C2CCE02CB00275EC2 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E51169B2CCE02CB00275EC2 /* ModelData.swift */; };
 		2E51169E2CCE191100275EC2 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E51169D2CCE191100275EC2 /* LandmarkRow.swift */; };
 		2E5116A02CCE2E2000275EC2 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E51169F2CCE2E2000275EC2 /* LandmarkList.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E4186D32CD617FC00C66A1F /* SwiftUIView_NavigationLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView_NavigationLink.swift; sourceTree = "<group>"; };
 		2E51169B2CCE02CB00275EC2 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		2E51169D2CCE191100275EC2 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		2E51169F2CCE2E2000275EC2 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				2E5116A12CCE335900275EC2 /* LandmarkDetail.swift */,
 				2E6E66412CD20C3B009E7006 /* CircleImage.swift */,
 				2E6E66432CD23452009E7006 /* Question.swift */,
+				2E4186D32CD617FC00C66A1F /* SwiftUIView_NavigationLink.swift */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				2E5116A02CCE2E2000275EC2 /* LandmarkList.swift in Sources */,
 				2ED0A4E42CD39C7A00F3523A /* QuestionViewModel.swift in Sources */,
 				2E6E66442CD23452009E7006 /* Question.swift in Sources */,
+				2E4186D42CD617FC00C66A1F /* SwiftUIView_NavigationLink.swift in Sources */,
 				2E5116A22CCE335900275EC2 /* LandmarkDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,10 +1,14 @@
 {
-  "source": "/Users/huyvu/Desktop/Swift test tutorial/test1/test1/DetailView_NavigationStack.swift",
+  "source": "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/DetailView_NavigationStack.swift",
   "tables": {
     "Localizable": [
       {
         "comment": "",
-        "key": "Hello, World!"
+        "key": "Chi tiết"
+      },
+      {
+        "comment": "",
+        "key": "Chi tiết cho %@"
       }
     ]
   },

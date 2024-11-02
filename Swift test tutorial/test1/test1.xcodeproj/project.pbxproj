@@ -12,6 +12,13 @@
 		2E4186CE2CD5E30500C66A1F /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4186CD2CD5E30500C66A1F /* SwiftUIView.swift */; };
 		2E4186D02CD5E51F00C66A1F /* SwiftUIView_NavigationStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4186CF2CD5E51F00C66A1F /* SwiftUIView_NavigationStack.swift */; };
 		2E4186D22CD5E55400C66A1F /* DetailView_NavigationStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4186D12CD5E55300C66A1F /* DetailView_NavigationStack.swift */; };
+		2E4186D82CD61C3100C66A1F /* SwiftUIView_HStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4186D72CD61C3100C66A1F /* SwiftUIView_HStack.swift */; };
+		2E4186DA2CD61CEA00C66A1F /* SwiftUIView_VStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4186D92CD61CEA00C66A1F /* SwiftUIView_VStack.swift */; };
+		2E4186DC2CD61D3B00C66A1F /* SwiftUIView_ZStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4186DB2CD61D3B00C66A1F /* SwiftUIView_ZStack.swift */; };
+		2E4186E02CD6232300C66A1F /* SwiftUIView_List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4186DF2CD6232300C66A1F /* SwiftUIView_List.swift */; };
+		2E4186E22CD6237B00C66A1F /* SwiftUIView_Group.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4186E12CD6237B00C66A1F /* SwiftUIView_Group.swift */; };
+		2E4186E42CD623BB00C66A1F /* SwiftUIView_Conditional.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4186E32CD623BB00C66A1F /* SwiftUIView_Conditional.swift */; };
+		2E4186E62CD63CD700C66A1F /* SwiftUIView_Embed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4186E52CD63CD700C66A1F /* SwiftUIView_Embed.swift */; };
 		2ED0EF062CCCF2B200A7EEBC /* test1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ED0EF052CCCF2B200A7EEBC /* test1App.swift */; };
 		2ED0EF082CCCF2B200A7EEBC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ED0EF072CCCF2B200A7EEBC /* ContentView.swift */; };
 		2ED0EF0A2CCCF2B300A7EEBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2ED0EF092CCCF2B300A7EEBC /* Assets.xcassets */; };
@@ -24,6 +31,13 @@
 		2E4186CD2CD5E30500C66A1F /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		2E4186CF2CD5E51F00C66A1F /* SwiftUIView_NavigationStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView_NavigationStack.swift; sourceTree = "<group>"; };
 		2E4186D12CD5E55300C66A1F /* DetailView_NavigationStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView_NavigationStack.swift; sourceTree = "<group>"; };
+		2E4186D72CD61C3100C66A1F /* SwiftUIView_HStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView_HStack.swift; sourceTree = "<group>"; };
+		2E4186D92CD61CEA00C66A1F /* SwiftUIView_VStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView_VStack.swift; sourceTree = "<group>"; };
+		2E4186DB2CD61D3B00C66A1F /* SwiftUIView_ZStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView_ZStack.swift; sourceTree = "<group>"; };
+		2E4186DF2CD6232300C66A1F /* SwiftUIView_List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView_List.swift; sourceTree = "<group>"; };
+		2E4186E12CD6237B00C66A1F /* SwiftUIView_Group.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView_Group.swift; sourceTree = "<group>"; };
+		2E4186E32CD623BB00C66A1F /* SwiftUIView_Conditional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView_Conditional.swift; sourceTree = "<group>"; };
+		2E4186E52CD63CD700C66A1F /* SwiftUIView_Embed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView_Embed.swift; sourceTree = "<group>"; };
 		2ED0EF022CCCF2B200A7EEBC /* test1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2ED0EF052CCCF2B200A7EEBC /* test1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test1App.swift; sourceTree = "<group>"; };
 		2ED0EF072CCCF2B200A7EEBC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -70,6 +84,13 @@
 				2E4186CD2CD5E30500C66A1F /* SwiftUIView.swift */,
 				2E4186CF2CD5E51F00C66A1F /* SwiftUIView_NavigationStack.swift */,
 				2E4186D12CD5E55300C66A1F /* DetailView_NavigationStack.swift */,
+				2E4186D72CD61C3100C66A1F /* SwiftUIView_HStack.swift */,
+				2E4186D92CD61CEA00C66A1F /* SwiftUIView_VStack.swift */,
+				2E4186DB2CD61D3B00C66A1F /* SwiftUIView_ZStack.swift */,
+				2E4186DF2CD6232300C66A1F /* SwiftUIView_List.swift */,
+				2E4186E12CD6237B00C66A1F /* SwiftUIView_Group.swift */,
+				2E4186E32CD623BB00C66A1F /* SwiftUIView_Conditional.swift */,
+				2E4186E52CD63CD700C66A1F /* SwiftUIView_Embed.swift */,
 			);
 			path = test1;
 			sourceTree = "<group>";
@@ -152,12 +173,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E4186E22CD6237B00C66A1F /* SwiftUIView_Group.swift in Sources */,
+				2E4186E42CD623BB00C66A1F /* SwiftUIView_Conditional.swift in Sources */,
 				2E4186CA2CD5E1DE00C66A1F /* InfoView.swift in Sources */,
 				2E4186D02CD5E51F00C66A1F /* SwiftUIView_NavigationStack.swift in Sources */,
+				2E4186DC2CD61D3B00C66A1F /* SwiftUIView_ZStack.swift in Sources */,
+				2E4186D82CD61C3100C66A1F /* SwiftUIView_HStack.swift in Sources */,
+				2E4186E02CD6232300C66A1F /* SwiftUIView_List.swift in Sources */,
 				2E4186D22CD5E55400C66A1F /* DetailView_NavigationStack.swift in Sources */,
 				2ED0EF082CCCF2B200A7EEBC /* ContentView.swift in Sources */,
 				2E4186C82CD5E1B200C66A1F /* DetailView.swift in Sources */,
 				2ED0EF062CCCF2B200A7EEBC /* test1App.swift in Sources */,
+				2E4186DA2CD61CEA00C66A1F /* SwiftUIView_VStack.swift in Sources */,
+				2E4186E62CD63CD700C66A1F /* SwiftUIView_Embed.swift in Sources */,
 				2E4186CE2CD5E30500C66A1F /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
