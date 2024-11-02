@@ -1,0 +1,20 @@
+{
+  "source": "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/SwiftUIView_Conditional.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "SwiftUI Layout Examples"
+      },
+      {
+        "comment": "",
+        "key": "Conditional Item: This is visible"
+      },
+      {
+        "comment": "",
+        "key": "Conditional Item: This is hidden"
+      }
+    ]
+  },
+  "version": 1
+}

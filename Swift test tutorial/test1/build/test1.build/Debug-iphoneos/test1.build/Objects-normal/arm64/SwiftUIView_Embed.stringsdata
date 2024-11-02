@@ -1,0 +1,24 @@
+{
+  "source": "/Users/huyvu/Desktop/swiftui-tutorial/Swift test tutorial/test1/test1/SwiftUIView_Embed.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Welcome to SwiftUI"
+      },
+      {
+        "comment": "",
+        "key": "Favorites"
+      },
+      {
+        "comment": "",
+        "key": "Item %lld"
+      },
+      {
+        "comment": "",
+        "key": "Even"
+      }
+    ]
+  },
+  "version": 1
+}
