@@ -72,3 +72,36 @@ if condition {
 + )**Đặc điểm:** Nhúng một thành phần trong thành phần khác để tổ chức bố cục.
 + )**Cách sử dụng:** <br><br>
   Có thể nhúng HStack, VStack, hoặc ZStack bên trong các thành phần khác để tạo ra giao diện phức tạp hơn.<br><br>
+
+####
+**1.NavigationLink** <br>
++ )**Mô tả:** **NavigationLink** được dùng để tạo liên kết điều hướng từ một **view** này sang một **view** khác trong **NavigationView hoặc NavigationStack**.<br><br>
++ )**Khi nào dùng:** Dùng khi bạn muốn thêm liên kết để di chuyển từ một view này sang một view khác.<br><br>
+
+![Screenshot 2024-11-02 at 20 52 47](https://github.com/user-attachments/assets/6d1c8903-81b6-4cee-b9a5-10126933308d) 
+![image](https://github.com/user-attachments/assets/a0c7b67c-538f-44da-a45e-27ff2b0c3fbc) <br><br>
+
+**2.NavigationLink** <br>
++ )**Mô tả:** **NavigationStack** là bản nâng cấp của **NavigationView,** có hỗ trợ nhiều tính năng điều hướng mới.<br><br>
++ )**Khi nào dùng:** Dùng từ iOS 16 trở lên, đặc biệt khi bạn muốn quản lý ngăn xếp điều hướng một cách dễ dàng.<br><br>
+
+![image](https://github.com/user-attachments/assets/8bdcb4ff-7cc2-4cfd-a0d3-b508233d4ccc) 
+![image](https://github.com/user-attachments/assets/e0f69c2c-e9b2-42f1-9e9b-129d960be527) <br><br>
+
+**3.NavigationView** <br>
++ )**Mô tả:** **NavigationView** là phiên bản gốc dùng để tạo khung điều hướng. Tuy nhiên, kể từ iOS 16, Apple giới thiệu NavigationStack để thay thế, với API mới dễ sử dụng hơn.<br><br>
++ )**Khi nào dùng:** Dùng từ iOS 16 trở lên, đặc biệt khi bạn muốn quản lý ngăn xếp điều hướng một cách dễ dàng.<br><br>
+
+![image](https://github.com/user-attachments/assets/80b0a6f9-fab2-4032-aa4e-cd7006dcc921)
+![image](https://github.com/user-attachments/assets/6876d61f-47b6-4627-90c7-7a594d9cc86f) <br><br>
+
+**4.NavigationSplitView** <br>
++ )**Mô tả:** **NavigationSplitView**  được thiết kế để tạo giao diện chia đôi, thích hợp cho iPad và Mac, nơi một phần màn hình hiển thị danh sách điều hướng và phần còn lại hiển thị nội dung.<br><br>
++ )**Khi nào dùng:** Dùng trong các ứng dụng đa nền tảng, đặc biệt là iPad hoặc Mac, để tạo bố cục kiểu Master-Detail.<br><br>
+
+
+
+
+
+
+
